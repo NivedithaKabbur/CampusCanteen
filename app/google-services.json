@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "306309364357",
+    "firebase_url": "https://cbre-646e9.firebaseio.com",
+    "project_id": "cbre-646e9",
+    "storage_bucket": "cbre-646e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306309364357:android:9ebe6f7176802404",
+        "android_client_info": {
+          "package_name": "com.trianz.campuscanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306309364357-1k12q1hgdkm1lbk26df5pm1nhueuj8un.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trianz.campuscanteen",
+            "certificate_hash": "6eaf0d0be9edd7ffc3a1b0dd59d8129e69ae5bfb"
+          }
+        },
+        {
+          "client_id": "306309364357-u9rv79g9pqli0jid2s5jsgdkm5v08qk8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGMH3Yd5jvX85GxaECgF5Zk4lSDdFUbY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306309364357-u9rv79g9pqli0jid2s5jsgdkm5v08qk8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "306309364357-r5idqvslngvcln2jqu2p61j0t08mduct.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.SF.CBRE"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
